@@ -1,4 +1,4 @@
-# RM Visual Formulas
+# RM Fórmulas Visuais
 
 Biblioteca colaborativa de Fórmulas Visuais para a Linha ERP RM da TOTVS.
 
